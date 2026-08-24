@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:4C:A9:0C",
+    "expiry": "July 11, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.52.190:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:D3:5B:ED",
+    "expiry": "September 9, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.39.141:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "A0:BB:3E:B2:FE:45",
+    "expiry": "March 19, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.255.94:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:F1:B8:05",
+    "expiry": "September 19, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.34.114:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:22",
+    "expiry": "June 12, 2027, 2:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.167.19.106:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "September 15, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.62.26:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:7C:5F:CF",
+    "expiry": "September 25, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.0.126:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:37",
+    "expiry": "September 24, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.44.210:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:40",
+    "expiry": "September 12, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.167.232:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:49",
+    "expiry": "December 27, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.164.128:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:5A",
+    "expiry": "April 19, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.187.14:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:95",
+    "expiry": "August 27, 2026, 2:50 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.50.134:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:99",
+    "expiry": "April 14, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.164.94:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:A0",
+    "expiry": "August 29, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.160.140:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:B6",
+    "expiry": "September 13, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.229.204:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:00:C6",
+    "expiry": "September 23, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.169.17:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:01:3D",
+    "expiry": "August 23, 2026, 7:16 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.27.106:3129"
+  },
+  {
+    "name": "Serveur raptor-tv.com:80",
+    "url": "http://raptor-tv.com:80/c/",
+    "mac": "00:1A:79:00:01:CF",
+    "expiry": "August 22, 2026, 9:55 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.47.139:3129"
+  }
+]
