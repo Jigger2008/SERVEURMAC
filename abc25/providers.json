@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:01",
+    "expiry": "January 20, 2027, 3:13 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.33.61:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "October 10, 2027, 4:03 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.25.96:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:31",
+    "expiry": "February 27, 2027, 11:39 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.11.33:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:50",
+    "expiry": "May 18, 2027, 9:40 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.7.183:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:55",
+    "expiry": "December 6, 2026, 5:35 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.252.114:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:8B",
+    "expiry": "August 3, 2027, 5:41 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.7.171:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:AB",
+    "expiry": "October 18, 2026, 8:42 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.230.73:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:00:B1",
+    "expiry": "December 13, 2026, 3:52 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.63.114:3129"
+  },
+  {
+    "name": "Serveur abc25.xyz:80",
+    "url": "http://abc25.xyz:80/c/",
+    "mac": "00:1A:79:00:01:AC",
+    "expiry": "January 5, 2027, 4:24 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.38.154:3129"
+  }
+]
