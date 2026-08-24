@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:FB:1C:65",
+    "expiry": "September 7, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.42.20:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:F1:B8:05",
+    "expiry": "July 28, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.250.121:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:12",
+    "expiry": "August 12, 2026, 8:17 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.247.199:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:1E:90",
+    "expiry": "October 8, 2026, 4:26 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.168.195:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "November 24, 2026, 11:00 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.238.100:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:77:E7:68",
+    "expiry": "February 27, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.45.202:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:34",
+    "expiry": "September 13, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.241.211:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:39",
+    "expiry": "May 6, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.34.246:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:66",
+    "expiry": "September 4, 2026, 6:35 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.184.249:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:88",
+    "expiry": "November 16, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.38.154:3129"
+  },
+  {
+    "name": "Serveur fusiontv.store",
+    "url": "http://fusiontv.store/c/",
+    "mac": "00:1A:79:00:00:91",
+    "expiry": "September 8, 2026, 6:49 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.62.161:3129"
+  }
+]
