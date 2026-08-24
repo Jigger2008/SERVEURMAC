@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:01",
+    "expiry": "January 20, 2027, 3:13 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.232.25:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "October 10, 2027, 4:03 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.33.191:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:23",
+    "expiry": "December 19, 2026, 8:53 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.250.121:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:31",
+    "expiry": "February 27, 2027, 11:39 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.40.240:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:55",
+    "expiry": "December 6, 2026, 5:35 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.34.248:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:56",
+    "expiry": "January 18, 2027, 11:43 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.52.141:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:77",
+    "expiry": "November 17, 2026, 1:42 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.35.93:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:8B",
+    "expiry": "August 3, 2027, 5:41 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.2.8:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:A9",
+    "expiry": "September 28, 2026, 1:36 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.61.58:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:AB",
+    "expiry": "October 18, 2026, 8:42 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.185.3:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:00:B1",
+    "expiry": "December 13, 2026, 3:52 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.60.242:3129"
+  },
+  {
+    "name": "Serveur rapideeiptvv.org:80",
+    "url": "http://rapideeiptvv.org:80/c/",
+    "mac": "00:1A:79:00:01:AC",
+    "expiry": "January 5, 2027, 4:24 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.7.171:3129"
+  }
+]
