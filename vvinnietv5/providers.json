@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:23",
+    "expiry": "December 19, 2026, 8:53 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.41.202:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:31",
+    "expiry": "February 27, 2027, 11:39 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.238.135:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:50",
+    "expiry": "May 18, 2027, 9:40 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.183.255:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:55",
+    "expiry": "December 6, 2026, 5:35 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.39.39:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:56",
+    "expiry": "January 18, 2027, 11:43 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.59.162:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:77",
+    "expiry": "November 17, 2026, 1:42 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.182.3:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:8B",
+    "expiry": "August 3, 2027, 5:41 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.242.232:3129"
+  },
+  {
+    "name": "Serveur vvinnietv5.com:80",
+    "url": "http://vvinnietv5.com:80/c/",
+    "mac": "00:1A:79:00:00:A9",
+    "expiry": "September 28, 2026, 1:36 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.59.169:3129"
+  }
+]
