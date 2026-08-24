@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Serveur line.tv-magic.xyz:80",
+    "url": "http://line.tv-magic.xyz:80/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "August 11, 2026, 5:46 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.63.114:3129"
+  }
+]
