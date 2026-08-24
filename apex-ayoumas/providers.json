@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:01",
+    "expiry": "January 20, 2027, 3:13 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.47.238:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "October 10, 2027, 4:03 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.165.178:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:23",
+    "expiry": "December 19, 2026, 8:53 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.166.169:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:31",
+    "expiry": "February 27, 2027, 11:39 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.0.92:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:50",
+    "expiry": "May 18, 2027, 9:40 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.44.104:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:55",
+    "expiry": "December 6, 2026, 5:35 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.15.96:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:56",
+    "expiry": "January 18, 2027, 11:43 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.46.196:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:77",
+    "expiry": "November 17, 2026, 1:42 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.40.113:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:8B",
+    "expiry": "August 3, 2027, 5:41 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.166.169:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:A9",
+    "expiry": "September 28, 2026, 1:36 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.242.232:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:AB",
+    "expiry": "October 18, 2026, 8:42 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.163.235:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:00:B1",
+    "expiry": "December 13, 2026, 3:52 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.38.131:3129"
+  },
+  {
+    "name": "Serveur apex-ayoumas.com:80",
+    "url": "http://apex-ayoumas.com:80/c/",
+    "mac": "00:1A:79:00:01:AC",
+    "expiry": "January 5, 2027, 4:24 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.59.182:3129"
+  }
+]
