@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Serveur quebecfasttv.vg",
+    "url": "http://quebecfasttv.vg/c/",
+    "mac": "00:1A:79:00:00:50",
+    "expiry": "May 18, 2027, 9:40 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.7.66:3129"
+  },
+  {
+    "name": "Serveur quebecfasttv.vg",
+    "url": "http://quebecfasttv.vg/c/",
+    "mac": "00:1A:79:00:00:77",
+    "expiry": "November 17, 2026, 1:42 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.165.178:3129"
+  },
+  {
+    "name": "Serveur quebecfasttv.vg",
+    "url": "http://quebecfasttv.vg/c/",
+    "mac": "00:1A:79:00:00:8B",
+    "expiry": "August 3, 2027, 5:41 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.35.143:3129"
+  },
+  {
+    "name": "Serveur quebecfasttv.vg",
+    "url": "http://quebecfasttv.vg/c/",
+    "mac": "00:1A:79:00:00:AB",
+    "expiry": "October 18, 2026, 8:42 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.60.212:3129"
+  },
+  {
+    "name": "Serveur quebecfasttv.vg",
+    "url": "http://quebecfasttv.vg/c/",
+    "mac": "00:1A:79:00:00:B1",
+    "expiry": "December 13, 2026, 3:52 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.13.46:3129"
+  }
+]
