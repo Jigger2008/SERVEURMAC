@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Serveur gauloise.cc",
+    "url": "http://gauloise.cc/c/",
+    "mac": "00:1A:79:A7:4E:97",
+    "expiry": "June 4, 2027, 11:09 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.61.58:3129"
+  },
+  {
+    "name": "Serveur gauloise.cc",
+    "url": "http://gauloise.cc/c/",
+    "mac": "00:1A:79:F9:CA:B0",
+    "expiry": "November 7, 2026, 9:26 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.182.148:3129"
+  }
+]
