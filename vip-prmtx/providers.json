@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:4C:A9:0C",
+    "expiry": "July 11, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.167.68:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:D3:5B:ED",
+    "expiry": "September 9, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.38.154:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "A0:BB:3E:B2:FE:45",
+    "expiry": "March 19, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.60.136:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:F1:B8:05",
+    "expiry": "September 19, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.163.127:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:22",
+    "expiry": "June 12, 2027, 2:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.33.61:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:01",
+    "expiry": "November 2, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.51.188:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:00",
+    "expiry": "September 15, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.32.0:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:7C:5F:CF",
+    "expiry": "September 25, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.29.145:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:40",
+    "expiry": "September 12, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.44.197:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:49",
+    "expiry": "December 27, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.252.122:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:95",
+    "expiry": "August 27, 2026, 2:50 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.4.15:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:99",
+    "expiry": "April 14, 2027, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://104.207.32.180:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:A0",
+    "expiry": "August 29, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.250.121:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:AA",
+    "expiry": "December 29, 2026, 1:12 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.2.26:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:B6",
+    "expiry": "September 13, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://65.111.24.48:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:00:C6",
+    "expiry": "September 23, 2026, 12:00 am",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://209.50.181.209:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:01:3D",
+    "expiry": "August 23, 2026, 7:16 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://216.26.236.137:3129"
+  },
+  {
+    "name": "Serveur line.vip-prmtx.sbs",
+    "url": "http://line.vip-prmtx.sbs/c/",
+    "mac": "00:1A:79:00:01:CF",
+    "expiry": "August 22, 2026, 9:55 pm",
+    "user": "",
+    "pass": "",
+    "m3u": "",
+    "proxy_used": "http://45.3.55.168:3129"
+  }
+]
